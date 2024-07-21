@@ -1,0 +1,553 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    background-image: url("assets/1\ \(1\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.rasm-rasm {
+animation-timing-function: ease-out;
+animation-duration: 300ms;
+animation-timing-function: ease-out;
+animation-duration: 300ms;
+width: 87px;
+height: 49px;
+top: 28px;
+left: 320px;
+padding: 1.61px 0.38px 0.24px 0.89px;
+gap: 0px;
+opacity: 0px;
+margin-left: 120.89px;
+
+
+
+
+}
+.yozuv {
+color: aliceblue;
+display: flex;
+gap: 30px;
+
+}
+.smayliki {
+margin-top: 40px;
+margin-right: 230px;
+
+}
+.glavniy {
+    display: flex;
+    justify-content: space-between;
+}
+.glavniy {
+    position: relative;
+}
+
+.kotta-rasm {
+    position: relative;
+    margin-top: 30px; 
+}
+
+.rasm-rasm {
+    display: block;
+}
+.yozuv p {
+    margin-top: 45px;
+}
+.smayliki img {
+    margin-right: 10px;
+}
+.smayliki img + img {
+    margin-left: 20px;
+}
+.yozuv p:hover {
+    color: #F57520;
+    ; 
+}
+.kotta_yozuv {
+    width: 679px;
+height: 227px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 96px;
+font-weight: 700;
+line-height: 118.08px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #FFFFFF;
+margin-left: 120.89px;
+margin-top: 80px;
+
+}
+.uzun_yozuv {
+    width: 645px;
+height: 87px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 28.8px;
+letter-spacing: 0.01em;
+text-align: left;
+color: #FFFFFF;
+margin-left: 120.89px;
+margin-top: 48px;
+
+}
+.tugma {
+    width: Fixed (180px)px;
+height: Hug (52px)px;
+padding: 16px 80px 16px 80px;
+gap: 10px;  
+border-radius: 10px 10px 10px 10px;
+opacity: 0px;
+background: #F57520;
+
+}
+.tugma_ichi {
+    width: 90px;
+height: 20px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 19.68px;
+text-align: right;
+color: #FFFFFF;
+
+
+}
+.tugma {
+    display: inline-block;
+    background-color: #F57520;
+    padding: 6px 10px; 
+    font-size: 12px; 
+    text-align: center;
+    width: auto; 
+    border-radius: 8px;
+    cursor: pointer;
+    margin-left: 120.89px;
+    margin-top: 40px;
+    
+}
+
+.tugma_ichi {
+    margin: 0;
+}
+main {
+    background-color: gray;
+}
+.Каталог {
+    width: 384px;
+height: 56px;
+top: 984px;
+left: 819px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 64px;
+font-weight: 800;
+line-height: 78.72px;
+letter-spacing: 0.05em;
+text-align: center;
+color: #101010;
+display: flex;
+justify-content: center;
+text-align: center;
+align-items: center;
+margin-left: 600px;
+
+
+}
+.veli {
+    width: 800px;
+height: 150px;
+top: 1162px;
+left: 330px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+margin-left: 370px;
+margin-top: 120px;
+}
+.veli_2 {
+    width: 400px;
+height: 458px;
+top: 1478px;
+left: 330px;
+padding: 80px 0px 0px 0px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+margin-left: 370px;
+
+}
+.veli_3 {
+    width: 400px;
+height: 216px;
+top: 1478px;
+left: 742px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+margin-left: 716px;
+
+}
+.veli_4 {
+    width: 400px;
+height: 216px;
+top: 1720px;
+left: 742px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+
+}
+.veli_5 {
+    width: 448px;
+height: 216px;
+top: 1478px;
+left: 1162px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+
+}
+.veli_6 {
+    width: 449px;
+height: 216px;
+top: 1720px;
+left: 1161px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+
+}
+.image-row {
+    display: flex;
+    justify-content: space-between; 
+    margin-bottom: 20px;
+}
+
+.boshi img {
+    margin-right: 10px;
+    max-width: 100%;
+    display: flex;
+}
+.Трасса {
+    width: 384px;
+height: 56px;
+top: 2093px;
+left: 819px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 64px;
+font-weight: 800;
+line-height: 78.72px;
+letter-spacing: 0.05em;
+text-align: center;
+color: #101010;
+margin-left: 600px;
+margin-top: 150px;
+
+}
+.qora {
+height: 50px;
+height: 150px;
+
+}
+.sana {
+    width: 88px;
+height: 26px;
+top: 219px;
+left: 27px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 800;
+line-height: 25.6px;
+text-align: left;
+color: #101010;
+margin-left: 120.87px;
+margin-top: 24px;
+
+
+}
+.velini_rasmi {
+    margin-left: 120.87px;
+    margin-top: 170px;
+}
+.juda_uzun {
+    width: 315px;
+height: 87px;
+top: 295px;
+left: 27px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 28.8px;
+letter-spacing: 0.01em;
+text-align: left;
+color: #101010;
+margin-left: 120.87px;
+margin-top: 50px;
+
+}
+.veli_rasm {
+    background-image: url("assets/image\ 86.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin-top: 50px;
+
+}
+.veli_rasm_yozuv {
+    width: 620px;
+height: 98px;
+top: 52px;
+left: 320px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 40px;
+font-weight: 800;
+line-height: 49.2px;
+letter-spacing: 0.05em;
+text-align: left;
+color: #FFFFFF;
+margin-left: 120.87px;
+
+
+}
+.veli_rasm {
+    position: relative; 
+    padding-top: 52px;
+}
+.ism {
+    width: 315px;
+    height: 50px;
+
+top: 242px;
+left: 314px;
+padding: 10px 16px 10px 16px;
+gap: 10px;
+border-radius: 10px 10px 10px 10px;
+opacity: 0px;
+background: #FFFFFF;
+margin-left: 120.87px;
+margin-top: 92px;
+
+}
+
+    .ism {
+        font-size: 18px;
+        color: #333;
+        text-align: center;
+        padding: 10px;
+        border: 1px solid #ccc;
+    }
+.ism_yozuv {
+    width: 33px;
+height: 26px;
+gap: 0px;
+opacity: 0px;
+color: #B3B3B3;
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 25.6px;
+text-align: left;
+
+}
+.E-mail {
+    width: 315px;
+    height: 50px;
+
+top: 242px;
+left: 314px;
+padding: 10px 16px 10px 16px;
+gap: 10px;
+border-radius: 10px 10px 10px 10px;
+opacity: 0px;
+background: #FFFFFF;
+
+margin-top: 92px;
+}
+.ism, .E-mail {
+    margin-bottom: 16px;
+}
+
+.ism_yozuv, .E-mail .ism_yozuv {
+    margin: 0; 
+}
+.yanami {
+    display: flex;
+    gap: 16px;
+}
+.yanami_a {
+    display: flex;
+    gap: 16px;
+}
+.Компания {
+    width: 315px;
+    height: 50px;
+
+top: 242px;
+left: 314px;
+padding: 10px 16px 10px 16px;
+gap: 10px;
+border-radius: 10px 10px 10px 10px;
+opacity: 0px;
+background: #FFFFFF;
+
+margin-top: 92px;
+}
+.karta {
+width: 650px;
+height: 134px;
+top: 366px;
+left: 314px;
+padding: 10px 16px 10px 16px;
+gap: 10px;
+border-radius: 10px 10px 10px 10px;
+opacity: 0px;
+background: #FFFFFF;
+margin-left: 120px;
+
+}
+.Сообщение {
+    width: 92px;
+height: 26px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 25.6px;
+text-align: left;
+color: #B3B3B3;
+
+
+}
+.yana_karta {
+width: 650px;
+min-height: 52px;
+top: 544px;
+left: 314px;
+padding: 16px 80px 16px 80px;
+gap: 10px;
+border-radius: 10px 10px 10px 10px;
+opacity: 0px;
+background: #FFFFFF;
+margin-left: 120px;
+margin-top: 15px;
+
+}
+.yanami {
+    margin-bottom: 16px;
+}
+
+.yanami_a {
+    margin-top: 16px; 
+}
+
+.ism_yozuv {
+    margin: 0;
+}
+.yanami_a {
+    margin-top: 16px;
+}
+
+.ism_yozuv {
+    margin: 0; 
+}
+.Задать_вопрос {
+    width: 118px;
+height: 20px;
+gap: 0px;
+opacity: 0px;
+
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 19.68px;
+text-align: right;
+color: #F57520;
+display: flex;
+text-align: center;
+align-items: center;
+margin-left: 195px;
+
+
+
+}
+.map {
+    background-image: url(assets/map.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.kotta_qora {
+    width: 1920px;
+height: 370px;
+top: 4539px;
+gap: 0px;
+opacity: 0px;
+background: #101010;
+
+}
+.logo {
+    width: 87px;
+height: 49px;
+top: 91px;
+left: 318px;
+padding: 1.61px 0.38px 0.24px 0.89px;
+gap: 0px;
+opacity: 0px;
+margin-left: 50px;
+margin-top: 91px;
+
+
+}
+.logo {
+    position: relative; 
+}
+
+.logo img {
+    position: absolute; 
+    top: 91px;
+    left: 0; 
+}
+.Каталог_yozuv {
+    width: 102px;
+height: 38px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 700;
+line-height: 38.4px;
+letter-spacing: 0.01em;
+text-align: left;
+color: #FFFFFF;
+margin-left: 890px;
+margin-top: 140px;
+
+
+}
+
+
+
